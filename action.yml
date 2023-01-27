@@ -1,6 +1,6 @@
-name: Code Coverage Report
+name: Code Coverage Report Node16
 description: Comments a pull request with the code coverage
-author: Romeo Van Snick
+author: Greg Teixeira
 branding:
   icon: check-square
   color: green
